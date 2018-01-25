@@ -1,0 +1,14 @@
+Webfejlesztés - 2018.01.25.
+
+Git és GitHub
+
+1 repository = 1 projekt
+
+master branch a főág,
+abból leágazva történik fejlesztés
+elkészült fejlesztésre pull request kérése - megnézik, h oké-e, amit push-olnál
+ha ok, akkor merge-lés a főágra.
+
+Ha a főág és a merge-lt fejlesztés között volt eltérés (mert a főágon történt fejlesztés), akkor conflict-ok keletkezhetnek.
+Ezen conflict-okat fel kell oldani.
+
